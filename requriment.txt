@@ -2,3 +2,8 @@ payroll system
 login from
 admin desboard
 employee system
+attendance system
+payslip print 
+recorde all attendancs
+notesboard 
+setting option 
