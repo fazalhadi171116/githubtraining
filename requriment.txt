@@ -7,3 +7,6 @@ payslip print
 recorde all attendancs
 notesboard 
 setting option 
+add paymount feature
+online transtion 
+recive tranction
